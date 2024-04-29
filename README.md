@@ -1,0 +1,1 @@
+# paremetre-olarak-fonksiyo-n-g-nderme
